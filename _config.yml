@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Myles H Einhorn
+title: Myles H. Einhorn
 email: myles.h.123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a recent graduate student of Johns Hopkins University where I studied Data Analytics and Policy. Prior to recieving my degree I completed my undergraduate studies at Seton Hall University.
 twitter_username: username
 github_username: MylesEinhorn
 minimal_mistakes_skin: sunrise
@@ -58,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Myles H Einhorn"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Myles H. Einhorn"
+  avatar : "unnamed.jpg"
+  bio    : "I am a recent graduate student of Johns Hopkins University where I studied Data Analytics and Policy. Prior to recieving my degree I completed my undergraduate studies at Seton Hall University."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+  #  - label: "Website"
+   #   icon: "fas fa-fw fa-link"
+    #  url: "https://"
   #  - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
@@ -74,7 +72,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
 footer:
   links:
  #   - label: "Twitter"
@@ -86,6 +86,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
 
 defaults:
   # _posts
