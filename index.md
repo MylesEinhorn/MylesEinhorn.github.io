@@ -5,3 +5,8 @@
 layout: single
 author_profile: true
 ---
+
+
+![This is a test to see if I can get the AZ photo in]("C:\Users\Myles\OneDrive - Arc Aspicio\Pictures\unnamed.jpg")
+
+Hi I am Myles and recently I went on a trip to AZ. Here is a photo of "Safari Sam" as a test to see if this can work.
