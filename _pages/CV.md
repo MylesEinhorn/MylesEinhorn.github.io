@@ -6,8 +6,9 @@ This is where I would like to put my CV spelled out in a nice way with links tha
 
 ## Education
 
-icon for Johns Hopkins University with the link to statistical analysis concentration
-Description for Johns Hopkins University
+<img src="C:\DOcs\MylesHEinhornweb\Johns_Hopkins_Logo.png" alt = "Johns Hopkins University Logo" width = "400" height = "800">
+Johns Hopkins University Baltimore, MD
+
 
 icon for Seton Hall University with the link to some stuff but probably not all
 
