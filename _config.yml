@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Myles H. Einhorn"
-  avatar : "unnamed.jpg"
+  avatar : "assets/images/unnamed.jpg"
   bio    : "I am a recent graduate student of Johns Hopkins University where I studied Data Analytics and Policy. Prior to recieving my degree I completed my undergraduate studies at Seton Hall University."
   links:
   #  - label: "Website"
