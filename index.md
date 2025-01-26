@@ -5,9 +5,9 @@
 layout: single
 author_profile: true
 classes: wide
+header:
+  image: /assets/images/unnamed.jpg
+
 ---
-
-
-![This is a test to see if I can get the AZ photo in](/assets/images/unnamed.jpg)
 
 Hi I am Myles and recently I went on a trip to AZ. Here is a photo of "Safari Sam" as a test to see if this can work.
