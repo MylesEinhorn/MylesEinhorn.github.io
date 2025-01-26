@@ -6,7 +6,7 @@ This is where I would like to put my CV spelled out in a nice way with links tha
 
 ## Education
 
-<img src="C:\DOcs\MylesHEinhornweb\Johns_Hopkins_Logo.png" alt = "Johns Hopkins University Logo" width = "400" height = "800">
+<img src="{{ site.baseurl }}/assets/images/Johns_Hopkins_Logo.png" alt="Johns Hopkins Univeristy Logo" height= "400" width="400">
 Johns Hopkins University Baltimore, MD
 
 
