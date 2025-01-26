@@ -11,7 +11,8 @@ Johns Hopkins University Baltimore, MD
 
 Master of Science, Data Analytics and Policy with a concentration in Statistical Analysis
 
-
+<img src="{{ site.baseurl }}/assets/images/Seton_Hall_Logo.png" alt="Seton Hall Univeristy Logo" height= "40" width="40">
+Seton Hall University                            South Orange, NJ
 icon for Seton Hall University with the link to some stuff but probably not all
 
 ## Experience
