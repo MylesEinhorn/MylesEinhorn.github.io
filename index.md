@@ -8,6 +8,6 @@ classes: wide
 ---
 
 
-![This is a test to see if I can get the AZ photo in]("C:\Users\Myles\OneDrive - Arc Aspicio\Pictures\unnamed.jpg")
+![This is a test to see if I can get the AZ photo in]("C:\DOcs\MylesHEinhornweb\unnamed.jpg")
 
 Hi I am Myles and recently I went on a trip to AZ. Here is a photo of "Safari Sam" as a test to see if this can work.
